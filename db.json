@@ -1,0 +1,120 @@
+{
+  "posts": [
+    {
+      "id": 1,
+      "name": "2 states",
+      "roll": 321,
+      "email": "CHETAN BHAGAT",
+      "mobile": "",
+      "salary": "",
+      "wishlist": true,
+      "completedbooks": false
+    },
+    {
+      "id": 2,
+      "name": "War and Peace",
+      "roll": 1225,
+      "email": "TOLSTOY",
+      "mobile": "",
+      "salary": "",
+      "wishlist": false,
+      "completedbooks": false
+    },
+    {
+      "id": 3,
+      "name": "WINGS OF FIRE",
+      "roll": 180,
+      "email": "A.P.J ABDUL KALAM",
+      "mobile": null,
+      "salary": null,
+      "wishlist": false,
+      "completedbooks": false
+    },
+    {
+      "id": 4,
+      "name": "The History of Tom Jones,a Foundling",
+      "roll": 1024,
+      "email": "Henry Fielding",
+      "mobile": null,
+      "salary": null,
+      "wishlist": false,
+      "completedbooks": false
+    },
+    {
+      "id": 5,
+      "name": "CHITRA",
+      "roll": 50,
+      "email": "R.N.TAGORE",
+      "mobile": null,
+      "salary": null,
+      "wishlist": false,
+      "completedbooks": false
+    },
+    {
+      "id": 6,
+      "name": "Pride and Prejudice",
+      "roll": 367,
+      "email": "Jane Austen",
+      "mobile": null,
+      "salary": null,
+      "wishlist": false
+    },
+    {
+      "id": 7,
+      "name": "The Red and the Black",
+      "roll": 700,
+      "email": "Stendhal",
+      "mobile": null,
+      "salary": null,
+      "wishlist": false,
+      "completedbooks": false
+    },
+    {
+      "id": 8,
+      "name": "BEN HUR",
+      "roll": 440,
+      "email": "LEWIS WALLACE",
+      "mobile": null,
+      "salary": null,
+      "wishlist": false
+    },
+    {
+      "id": 9,
+      "name": "David Copperfield",
+      "roll": 624,
+      "email": "Charles Dickens",
+      "mobile": null,
+      "salary": null,
+      "wishlist": false
+    },
+    {
+      "id": 10,
+      "name": "MAHABHARAT",
+      "roll": 3000,
+      "email": "VYASA",
+      "mobile": null,
+      "salary": null,
+      "wishlist": false,
+      "completedbooks": false
+    }
+  ],
+  "signupUsers": [
+    {
+      "fullname": "jaydev",
+      "email": "vurlugonda@gmail.com",
+      "password": "1234456778",
+      "mobile": 9346555148,
+      "id": 14
+    },
+    {
+      "fullname": "Shadab",
+      "email": "Deepak@gmail.com",
+      "password": "dep@123!",
+      "mobile": 9335105662,
+      "id": 15
+    }
+  ],
+  "profile": {
+    "name": "typicode"
+  }
+}
